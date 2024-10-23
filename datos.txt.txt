@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 -Fabrizio Blas Fernandez 
 -192.168.0.79
 -12:21
+=======
+Lautaro Torres Distefano (Alfa)
+Malena Rodriguez Barrio (Beta)
+IP: 192.168.1.104
+12:09 pm
+>>>>>>> d9506948a168a59fae5f17b4b47921b43791fce3
