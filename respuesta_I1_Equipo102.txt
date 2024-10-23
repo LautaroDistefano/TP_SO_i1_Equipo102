@@ -2,4 +2,14 @@ a-¿ALFA ve los datos que cargaron los demás en su repositorio?
 Si, los cambios realizados son visibles para todos 
 
 b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
-Si, todos son capaces de ver un archivo subido por ALFA
+Sí, todos son capaces de ver un archivo subido por ALFA
+
+-----------------------------------------------------------
+
+c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+Sí, todos pueden ver el archivo que agrega Beta
+
+d-¿De qué forma se comunicaron ustedes?
+Vía grupo de WhatsApp
+
+-----------------------------------------------------------
